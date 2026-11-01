@@ -7,7 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.14"
-black = "^26.5.1"
 isort = "^9.0.1"
 flake8 = "^7.4.1"
 mypy = "^2.3.1"

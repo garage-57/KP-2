@@ -4,7 +4,6 @@ import logging
 import os
 import sys
 import requests
-from requests import get
 
 
 def setup_logging(log_file: str = "logs/response.log", level: str = "INFO"):

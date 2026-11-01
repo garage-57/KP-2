@@ -30,6 +30,6 @@
         "addresstype": "suburb",
         "name": "Calgary International Airport",
         "display_name": "Calgary International Airport, Калгари, Альберта, Канада",
-        "boundingbox": ["51.0927957", "51.1543114", "-114.0431929", "-113.9816473"],
-    },
+        "boundingbox": ["51.0927957", "51.1543114", "-114.0431929", "-113.9816473"]
+    }
 ]

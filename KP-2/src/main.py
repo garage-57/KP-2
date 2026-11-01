@@ -4,11 +4,10 @@ from src.aeroplanes import (
     filter_aeroplanes,
     print_aeroplanes,
     sort_aeroplanes,
-    get_top_aeroplanes,get_aeroplanes_by_altitude
+    get_top_aeroplanes, get_aeroplanes_by_altitude
 )
 from src.api_key import APIAdapter
-
-
+import psycopg2
 
 def user_interaction():
     """Функция для взаимодействия с пользователем"""
